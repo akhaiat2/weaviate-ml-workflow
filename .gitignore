@@ -1,3 +1,6 @@
+echo "node_modules/" >> .gitignore
+echo "node_modules/@next/swc-darwin-arm64/next-swc.darwin-arm64.node" >> .gitignore
+
 node_modules/
 npm-debug.log
 yarn-error.log
