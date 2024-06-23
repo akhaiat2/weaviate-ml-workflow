@@ -32,6 +32,26 @@
     background-color: #005bb5;
   }
   
+  .examples {
+    margin-top: 20px;
+  }
+  
+  .example-button {
+    display: block;
+    padding: 10px;
+    margin: 5px 0;
+    font-size: 14px;
+    color: #0070f3;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .example-button:hover {
+    background-color: #e0e0e0;
+  }
+  
   .rating-output {
     margin-top: 20px;
     font-size: 18px;
