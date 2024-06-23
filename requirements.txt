@@ -1,4 +1,0 @@
-pandas
-sentence-transformers
-weaviate-client
-numpy
